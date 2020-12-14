@@ -1,2 +1,2 @@
-# datasciencoursea
+# datasciencoursera
 Course1 Assigment
